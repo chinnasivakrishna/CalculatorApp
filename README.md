@@ -1,5 +1,4 @@
 
-```markdown
 # React Native Calculator App
 
 A modern, user-friendly calculator application built with React Native and Expo. This app features a clean interface with basic arithmetic operations and a responsive design.
@@ -26,7 +25,7 @@ Before you begin, ensure you have installed:
 ## Installation
 
 1. Clone the repository:
-```bash
+```bash 
 git clone <your-repository-url>
 cd CalculatorApp
 ```
@@ -98,7 +97,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Support
 
-For support, email [your-email@example.com] or open an issue in the repository.
+For support, email [chinnasivakrishna2003@gmail.com] or open an issue in the repository.
 ```
 
 This README provides:
