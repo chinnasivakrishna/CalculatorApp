@@ -3,7 +3,7 @@
 
 A modern, user-friendly calculator application built with React Native and Expo. This app features a clean interface with basic arithmetic operations and a responsive design.
 
-![Calculator App Screenshot](calculator.png)
+![Calculator App Screenshot](calculator.jpeg)
 
 
 ## Features
