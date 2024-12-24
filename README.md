@@ -82,18 +82,11 @@ CalculatorApp/
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Author
 
 [Chinna Siva Krishna Thota]
 
-## Acknowledgments
-
-- Thanks to Expo for providing an excellent development platform
-- React Native community for the comprehensive documentation
 
 ## Support
 
